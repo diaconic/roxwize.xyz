@@ -21,10 +21,14 @@
 <linkset>
   <category name="Technology">
     <link ref="caveat.cc"/>
+    <link href="https://thepersonever.net/" title="flashes, devlogs, and javascript oh my... remember 2 clear ur cache!" style="@import url('https://thepersonever.net/pfps/notactually/roxwize.css')" class="tpelink">thepersonever!</link>
   </category>
   <category name="Art">
+    <link href="https://thepersonever.net/" title="drawings, gifs, and pencils oh my... remember 2 clear ur cache!" style="@import url('https://thepersonever.net/pfps/notactually/roxwize.css')" class="tpelink">thepersonever!</link>
+    <!-- sorry i have literally everything i do on tpe from horrible music to horrible drawings -->
   </category>
   <category name="Music">
+    <link href="https://thepersonever.net/" title="soundfonts, disortion, and programs oh my... remember 2 clear ur cache!" style="@import url('https://thepersonever.net/pfps/notactually/roxwize.css')" class="tpelink">thepersonever!</link>
   </category>
   <category name="GeneralAndPersonal">
     <link href="http://sniper.xproot.pw/">IdioticSniper's Website</link>
@@ -32,5 +36,6 @@
     <link href="https://ha1iiid3enz.carrd.co/" title="haidens website" style="@import url('https://fonts.googleapis.com/css2?family=Silkscreen&amp;display=swap');!{font-family:'Silkscreen';color:#cc0000;}">haiden.exe</link>
     <link href="https://caveat.cc/" id="caveat.cc">caveat.cc</link>
     <link href="https://oerrorpage.neocities.org/">oerrorpage</link>
+    <link href="https://thepersonever.net/" title="blogs, images, and texts, oh my! remember 2 clear your cache!!" style="@import url('https://thepersonever.net/pfps/notactually/roxwize.css')" class="tpelink">thepersonever!</link>
   </category>
 </linkset>
